@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1470-shuffle-the-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1539-kth-missing-positive-number) |
 | [1652-defuse-the-bomb](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1652-defuse-the-bomb) |
 ## Sliding Window

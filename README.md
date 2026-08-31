@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -84,6 +85,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->

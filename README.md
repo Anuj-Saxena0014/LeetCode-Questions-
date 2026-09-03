@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0059-spiral-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0283-move-zeroes) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1331-rank-transform-of-an-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0283-move-zeroes) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## String Matching

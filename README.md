@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0560-subarray-sum-equals-k) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1331-rank-transform-of-an-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0037-sudoku-solver) |
 | [0268-missing-number](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->

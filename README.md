@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0059-spiral-matrix-ii) |
+| [0088-merge-sorted-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0268-missing-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1331-rank-transform-of-an-array) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0283-move-zeroes) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1346-check-if-n-and-its-double-exist) |

@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1539-kth-missing-positive-number) |
 | [1652-defuse-the-bomb](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1652-defuse-the-bomb) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Matrix
 |  |
 | ------- |

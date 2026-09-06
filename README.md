@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0242-valid-anagram) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1331-rank-transform-of-an-array) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0037-sudoku-solver) |
+| [0242-valid-anagram](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0560-subarray-sum-equals-k) |

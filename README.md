@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0242-valid-anagram) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0283-move-zeroes) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1346-check-if-n-and-its-double-exist) |

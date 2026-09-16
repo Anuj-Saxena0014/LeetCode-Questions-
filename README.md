@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0055-jump-game) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0042-trapping-rain-water) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0125-valid-palindrome) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0055-jump-game) |
 ## Greedy
@@ -194,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0061-rotate-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

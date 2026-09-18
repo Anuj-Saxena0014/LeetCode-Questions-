@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0268-missing-number) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0198-house-robber) |
 ## Greedy
 |  |
 | ------- |

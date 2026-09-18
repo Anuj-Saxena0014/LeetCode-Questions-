@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0268-missing-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0152-maximum-product-subarray) |
 ## Greedy
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0042-trapping-rain-water) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

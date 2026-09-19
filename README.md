@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0189-rotate-array) |
+| [0263-ugly-number](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0989-add-to-array-form-of-integer) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1232-check-if-it-is-a-straight-line) |

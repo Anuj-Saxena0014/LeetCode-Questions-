@@ -1,27 +1,22 @@
 class Solution {
-public:
-    // bool fun(int i,int n,vector<int>&nums){
-    //     if(i==n-1) return true;
-    //     if(nums[i]==0) return false;
-    //     // if(dp[i]!=0) return true;
-    //     for(int j=nums[i];j>=1;j--){
-    //         if(i+j>n-1) continue;
-    //         if(fun(i+j,n,nums)) return true;
-    //     }
-    //     return false;
-    // }
-    bool canJump(vector<int>& nums) {
-        int n=nums.size();
-        vector<int>dp(n,0);
-        dp[0]=true;
-        for(int i=1;i<n;i++){
-            for(int j=i-1;j>=0;j--){
-                if(dp[j] and j+nums[j]>=i){
-                    dp[i]=true;
-                    break;
-                }
+public: 
+    bool kudja(int idx, vector<int>& nums,vector<int>& dp){
+        if(idx >= nums.size()-1) return true;
+
+        if(dp[idx] != -1){
+            return dp[idx];
+        }
+        
+        for(int jump =1 ; jump <= nums[idx];jump++){
+            if(kudja(jump + idx,nums,dp)){
+                return true;
             }
         }
-        return dp[n-1];
+       return dp[idx] = false;
+    }
+    bool canJump(vector<int>& nums) {
+        int n = nums.size();
+        vector<int>dp(n+1,-1);
+        return kudja(0,nums,dp);
     }
 };

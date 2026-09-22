@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0268-missing-number) |
+| [0476-number-complement](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0476-number-complement) |
 ## Prefix Sum
 |  |
 | ------- |

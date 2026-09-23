@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0476-number-complement) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |

@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1200-minimum-absolute-difference) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [3870-count-commas-in-range](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3870-count-commas-in-range) |
 ## Geometry
 |  |

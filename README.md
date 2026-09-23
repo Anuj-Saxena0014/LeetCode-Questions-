@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0059-spiral-matrix-ii) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1389-create-target-array-in-the-given-order) |
+| [1518-water-bottles](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1518-water-bottles) |
 | [2390-removing-stars-from-a-string](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting Sort
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1512-number-of-good-pairs) |
+| [1518-water-bottles](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1518-water-bottles) |
 | [3870-count-commas-in-range](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3870-count-commas-in-range) |
 ## Geometry
 |  |

@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1518-water-bottles) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3870-count-commas-in-range](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3870-count-commas-in-range) |
 ## Geometry
 |  |

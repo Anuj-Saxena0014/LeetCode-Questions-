@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1837-sum-of-digits-in-base-k) |
+| [3099-harshad-number](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3099-harshad-number) |
 | [3870-count-commas-in-range](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3870-count-commas-in-range) |
 ## Geometry
 |  |

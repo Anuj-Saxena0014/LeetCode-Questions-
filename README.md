@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0322-coin-change) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0645-set-mismatch) |
 | [0746-min-cost-climbing-stairs](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0746-min-cost-climbing-stairs) |
 | [0989-add-to-array-form-of-integer](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0994-rotting-oranges) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0645-set-mismatch) |
 | [1200-minimum-absolute-difference](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Prefix Sum
 |  |

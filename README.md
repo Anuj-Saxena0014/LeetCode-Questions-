@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0551-student-attendance-record-i) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

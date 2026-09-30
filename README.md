@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0383-ransom-note) |
 | [0434-number-of-segments-in-a-string](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0541-reverse-string-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0283-move-zeroes) |
+| [0541-reverse-string-ii](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0541-reverse-string-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## String Matching

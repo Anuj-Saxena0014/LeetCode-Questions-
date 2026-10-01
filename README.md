@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0383-ransom-note) |
 | [0434-number-of-segments-in-a-string](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0434-number-of-segments-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0551-student-attendance-record-i) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0686-repeated-string-match) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Simulation
@@ -300,10 +302,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Z Algorithm
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |

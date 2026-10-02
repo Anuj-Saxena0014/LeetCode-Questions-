@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0383-ransom-note) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0037-sudoku-solver) |
 ## Algorithm X
 |  |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0055-jump-game) |

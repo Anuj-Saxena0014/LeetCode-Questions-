@@ -259,10 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0994-rotting-oranges) |
@@ -335,4 +337,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0010-regular-expression-matching) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->

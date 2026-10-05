@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0796-rotate-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1507-reformat-date](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1507-reformat-date) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0796-rotate-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Simulation
 |  |

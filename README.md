@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0645-set-mismatch) |
 | [0746-min-cost-climbing-stairs](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0746-min-cost-climbing-stairs) |
+| [0804-unique-morse-code-words](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0804-unique-morse-code-words) |
 | [0989-add-to-array-form-of-integer](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0994-rotting-oranges) |
 | [1037-valid-boomerang](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1037-valid-boomerang) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0796-rotate-string) |
+| [0804-unique-morse-code-words](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0804-unique-morse-code-words) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1507-reformat-date](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1507-reformat-date) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0645-set-mismatch) |
+| [0804-unique-morse-code-words](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0804-unique-morse-code-words) |
 | [1331-rank-transform-of-an-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |

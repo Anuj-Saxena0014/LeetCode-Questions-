@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0804-unique-morse-code-words) |
+| [0856-score-of-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1507-reformat-date](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1507-reformat-date) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/2390-removing-stars-from-a-string) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search

@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0645-set-mismatch) |
 | [0746-min-cost-climbing-stairs](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0746-min-cost-climbing-stairs) |
 | [0804-unique-morse-code-words](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0804-unique-morse-code-words) |
+| [0922-sort-array-by-parity-ii](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0922-sort-array-by-parity-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0994-rotting-oranges) |
 | [1037-valid-boomerang](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1037-valid-boomerang) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0645-set-mismatch) |
+| [0922-sort-array-by-parity-ii](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0922-sort-array-by-parity-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0283-move-zeroes) |
 | [0541-reverse-string-ii](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0541-reverse-string-ii) |
+| [0922-sort-array-by-parity-ii](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## String Matching

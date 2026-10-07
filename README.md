@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0383-ransom-note) |
 | [0434-number-of-segments-in-a-string](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0459-repeated-substring-pattern) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0037-sudoku-solver) |
+| [0301-remove-invalid-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0301-remove-invalid-parentheses) |
 ## Algorithm X
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0994-rotting-oranges) |
 ## Union-Find

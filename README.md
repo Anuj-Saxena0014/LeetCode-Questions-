@@ -285,11 +285,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0207-course-schedule) |
 | [0301-remove-invalid-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0994-rotting-oranges) |
@@ -371,4 +373,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0101-symmetric-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->

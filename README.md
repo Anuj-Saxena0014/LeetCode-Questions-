@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1652-defuse-the-bomb) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sliding Window
 |  |
@@ -390,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0207-course-schedule) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->

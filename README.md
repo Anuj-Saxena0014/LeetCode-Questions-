@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sliding Window
 |  |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1512-number-of-good-pairs) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |

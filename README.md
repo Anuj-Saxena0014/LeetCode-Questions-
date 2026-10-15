@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0645-set-mismatch) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0190-reverse-bits) |
 ## Linked List
 |  |
 | ------- |

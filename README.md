@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0207-course-schedule) |
 ## Breadth-First Search
@@ -383,10 +384,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0110-balanced-binary-tree) |
 ## Graph Theory
 |  |
 | ------- |

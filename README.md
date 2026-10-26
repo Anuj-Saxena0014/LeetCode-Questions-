@@ -430,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->

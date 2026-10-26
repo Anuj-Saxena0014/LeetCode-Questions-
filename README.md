@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Sliding Window
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0207-course-schedule) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -319,10 +322,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0994-rotting-oranges) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0200-number-of-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |

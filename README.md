@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Sliding Window
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2390-removing-stars-from-a-string](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3498-reverse-degree-of-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Stack
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0207-course-schedule) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0190-reverse-bits) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -408,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0110-balanced-binary-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -434,11 +440,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Database
 |  |
 | ------- |

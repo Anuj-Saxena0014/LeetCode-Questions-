@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3665-twisted-mirror-path-count) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0322-coin-change) |
 | [0678-valid-parenthesis-string](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0746-min-cost-climbing-stairs) |
+| [3665-twisted-mirror-path-count](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |

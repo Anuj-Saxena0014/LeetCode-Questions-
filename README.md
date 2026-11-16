@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0746-min-cost-climbing-stairs) |
 | [0804-unique-morse-code-words](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0804-unique-morse-code-words) |
 | [0922-sort-array-by-parity-ii](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0922-sort-array-by-parity-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/0704-binary-search) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/Anuj-Saxena0014/LeetCode-Questions-/tree/master/1539-kth-missing-positive-number) |
